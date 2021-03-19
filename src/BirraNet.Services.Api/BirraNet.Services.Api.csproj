@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="microsoft.entityframeworkcore.inmemory" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BirraNet.Application\BirraNet.Application.csproj" />
+    <ProjectReference Include="..\BirraNet.Domain\BirraNet.Domain.csproj" />
+    <ProjectReference Include="..\BirraNet.Infra.Data\BirraNet.Infra.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,104 @@
+{
+  "cervejas": [
+    {
+      "id": "cerveja-ipa",
+      "nome": "Cerveja IPA",
+      "categoria": "Amarga",
+      "coloracao": "Clara",
+      "caminhoImagem": "assets/img/foods/cupcake.png",
+      "descricao": "A cerveja IPA tem 40 anos de mercado. Fazemos a melhor cerveja do mundo. Compre e confira."
+    },
+    {
+      "id": "cerveja-stout",
+      "nome": "Cerveja Stout",
+      "categoria": "Amarga",
+      "coloracao": "Escura",
+      "caminhoImagem": "assets/img/foods/cupcake.png",
+      "descricao": "A cerveja Stout tem 40 anos de mercado. Fazemos a melhor cerveja do mundo. Compre e confira."
+    },
+    {
+      "id": "cerveja-pilsen",
+      "nome": "Cerveja Pilsen",
+      "categoria": "Leve",
+      "coloracao": "Suave",
+      "caminhoImagem": "assets/img/foods/cupcake.png",
+      "descricao": "A cerveja Pilsen tem 40 anos de mercado. Fazemos a melhor cerveja do mundo. Compre e confira."
+    },
+    {
+      "id": "cerveja-premium-lager",
+      "nome": "Cerveja Premium Lager",
+      "categoria": "Leve",
+      "coloracao": "Marcante",
+      "caminhoImagem": "assets/img/foods/cupcake.png",
+      "descricao": "A cerveja Premium Lager tem 40 anos de mercado. Fazemos a melhor cerveja do mundo. Compre e confira."
+    }
+  ],
+  "mensagens": [
+
+  ],
+  "perguntas": [
+    {
+      "id": 1,
+      "mensagem": "Você tem 18 anos?",
+      "ordem": "1",
+      "idPerguntaPai": null,
+      "respostaPai": null
+    },
+    {
+      "id": 2,
+      "mensagem": "Você não tem premissão para acessar o site.",
+      "ordem": "2",
+      "idPerguntaPai": 1,
+      "respostaPai": "Não"
+    },
+    {
+      "id": 3,
+      "mensagem": "Qual tipo de cerveja prefere?",
+      "ordem": "2",
+      "idPerguntaPai": 1,
+      "respostaPai": "Sim"
+    },
+    {
+      "id": 4,
+      "mensagem": "Prefere cerveja clara ou escura?",
+      "ordem": "3",
+      "idPerguntaPai": 3,
+      "respostaPai": "Amarga"
+    },
+    {
+      "id": 5,
+      "mensagem": "Como gosta do sabor do malte?",
+      "ordem": "3",
+      "idPerguntaPai": 3,
+      "respostaPai": "Leve"
+    },
+    {
+      "id": 6,
+      "mensagem": "Sugestão: Cerveja IPA",
+      "ordem": "4",
+      "idPerguntaPai": 4,
+      "respostaPai": "Clara"
+    },
+    {
+      "id": 7,
+      "mensagem": "Sugestão: Cerveja Stout",
+      "ordem": "4",
+      "idPerguntaPai": 4,
+      "respostaPai": "Escura"
+    },
+    {
+      "id": 8,
+      "mensagem": "Sugestão: Cerveja Pilsen",
+      "ordem": "4",
+      "idPerguntaPai": 5,
+      "respostaPai": "Suave"
+    },
+    {
+      "id": 9,
+      "mensagem": "Sugestão: Cerveja Premium Lager",
+      "ordem": "4",
+      "idPerguntaPai": 5,
+      "respostaPai": "Marcante"
+    }
+  ]
+}

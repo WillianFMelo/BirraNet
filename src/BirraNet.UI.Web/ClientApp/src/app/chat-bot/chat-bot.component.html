@@ -1,0 +1,31 @@
+
+
+<div class="col-md-8">
+  <div *ngFor="let mensagem of mensagens" class="col-md-12 mb-3">
+    <app-mensagem [mensagem]="mensagem"></app-mensagem>
+  </div>
+
+  <form [formGroup]="chatForm" novalidate>
+    <div class="row col-md-12">
+      <div class="col-md-8">
+        <div class="input-group mb-3">
+          <input type="text" class="form-control" placeholder="Digite uma mensagem..." aria-label="Digite uma mensagem..."
+            aria-describedby="button-addon2" formControlName="mensagem"
+            (keyup)="enviarMensagemPorEnter($event)">
+          <button (click)="enviarMensagem(chatForm.value)" class="btn btn-outline-secondary" type="button"
+            id="button-addon2"
+            [disabled]="!temPermissao()"
+            >Enviar</button>
+        </div>
+      </div>
+    </div>
+</form>
+</div>
+
+
+
+
+
+
+
+

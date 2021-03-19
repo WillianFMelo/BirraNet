@@ -1,0 +1,14 @@
+D:\Projetos\BirraNet\src\BirraNet.Application\bin\Debug\netcoreapp3.1\BirraNet.Application.deps.json
+D:\Projetos\BirraNet\src\BirraNet.Application\bin\Debug\netcoreapp3.1\BirraNet.Application.dll
+D:\Projetos\BirraNet\src\BirraNet.Application\bin\Debug\netcoreapp3.1\BirraNet.Application.pdb
+D:\Projetos\BirraNet\src\BirraNet.Application\obj\Debug\netcoreapp3.1\BirraNet.Application.csprojAssemblyReference.cache
+D:\Projetos\BirraNet\src\BirraNet.Application\obj\Debug\netcoreapp3.1\BirraNet.Application.AssemblyInfoInputs.cache
+D:\Projetos\BirraNet\src\BirraNet.Application\obj\Debug\netcoreapp3.1\BirraNet.Application.AssemblyInfo.cs
+D:\Projetos\BirraNet\src\BirraNet.Application\obj\Debug\netcoreapp3.1\BirraNet.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\BirraNet\src\BirraNet.Application\obj\Debug\netcoreapp3.1\BirraNet.Application.dll
+D:\Projetos\BirraNet\src\BirraNet.Application\obj\Debug\netcoreapp3.1\BirraNet.Application.pdb
+D:\Projetos\BirraNet\src\BirraNet.Application\bin\Debug\netcoreapp3.1\BirraNet.Domain.dll
+D:\Projetos\BirraNet\src\BirraNet.Application\bin\Debug\netcoreapp3.1\BirraNet.Infra.Data.dll
+D:\Projetos\BirraNet\src\BirraNet.Application\bin\Debug\netcoreapp3.1\BirraNet.Domain.pdb
+D:\Projetos\BirraNet\src\BirraNet.Application\bin\Debug\netcoreapp3.1\BirraNet.Infra.Data.pdb
+D:\Projetos\BirraNet\src\BirraNet.Application\obj\Debug\netcoreapp3.1\BirraNet.Application.csproj.CopyComplete

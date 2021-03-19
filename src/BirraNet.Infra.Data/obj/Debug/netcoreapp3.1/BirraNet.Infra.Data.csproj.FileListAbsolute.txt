@@ -1,0 +1,9 @@
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\bin\Debug\netcoreapp3.1\BirraNet.Infra.Data.deps.json
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\bin\Debug\netcoreapp3.1\BirraNet.Infra.Data.dll
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\bin\Debug\netcoreapp3.1\BirraNet.Infra.Data.pdb
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\obj\Debug\netcoreapp3.1\BirraNet.Infra.Data.csprojAssemblyReference.cache
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\obj\Debug\netcoreapp3.1\BirraNet.Infra.Data.AssemblyInfoInputs.cache
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\obj\Debug\netcoreapp3.1\BirraNet.Infra.Data.AssemblyInfo.cs
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\obj\Debug\netcoreapp3.1\BirraNet.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\obj\Debug\netcoreapp3.1\BirraNet.Infra.Data.dll
+D:\Projetos\BirraNet\src\BirraNet.Infra.Data\obj\Debug\netcoreapp3.1\BirraNet.Infra.Data.pdb

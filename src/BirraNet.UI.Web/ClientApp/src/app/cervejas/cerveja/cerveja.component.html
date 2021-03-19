@@ -1,0 +1,11 @@
+
+
+<div class="card" style="width: 18rem;">
+  <img [src]="cerveja.caminhoImagem" class="card-img-top" alt="cerveja.nome">
+  <div class="card-body">
+    <h5 class="card-title"><strong>{{cerveja.nome}}</strong></h5>
+    <p class="card-text">{{cerveja.descricao}}</p>
+    <p class="card-text">{{cerveja.categoria}}</p>
+    <a [routerLink]="[ '/cerveja', cerveja.id ]" class="btn btn-primary">Comprar</a>
+  </div>
+</div>
